@@ -14,7 +14,7 @@ Uma simplificação da dinâmica de autenticação pode ser vista abaixo.
 #### Cadastro
 ![](./.github/cadastro.svg)  
 
-####Autenticação
+#### Autenticação
 ![](./.github/autenticacao.svg)
 
 ## API
