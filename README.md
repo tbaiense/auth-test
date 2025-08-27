@@ -3,6 +3,12 @@ Este é uma uma demonstração de como pode ser implementado um sistema de cria�
 
 > Tudo o que foi apresentado não passa de um teste, portanto não representa um exemplo a ser seguido.
 
+## Implantação
+Este projeto utiliza o Docker Compose para realizar a implantação de forma mais ágil. Para subir os serviços, digite:  
+```
+docker compose up -d
+```
+
 ## Características
 Algoritmo de hash: SHA-512  
 Hash gerado: 32 caracteres hexadecimais
