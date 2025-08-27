@@ -24,9 +24,10 @@ Uma simplificação da dinâmica de autenticação pode ser vista abaixo.
 ![](./.github/autenticacao.svg)
 
 ## API
+Endpoint: `http://localhost:8080/`  
 
 #### Cadastro de conta de usuário  
-
+Path: `/contas-usuario/`  
 Método HTTP: POST  
 Tipo de corpo de requisição: JSON  
 
@@ -48,7 +49,7 @@ Exemplos:
 <hr>
 
 #### Autenticação
-
+Path: `/auth/`  
 Método HTTP: POST  
 Tipo de corpo de requisição: JSON  
 
