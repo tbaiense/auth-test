@@ -1,0 +1,19 @@
+{
+  "name": "auth-api",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon --legacy-watch src/main.js",
+    "prod": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "Thiago Moura Baiense",
+  "license": "ISC",
+  "description": "Teste de autenticação usando hash e salt",
+  "dependencies": {
+    "express": "~4.21.2",
+    "express-async-handler": "~1.2.0",
+    "mysql2": "~3.14.1",
+    "nodemon": "~3.1.10"
+  }
+}
